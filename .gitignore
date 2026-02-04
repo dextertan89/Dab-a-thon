@@ -3,7 +3,6 @@ data/raw/**
 
 # Large files
 *.zip
-*.csv
 *.parquet
 
 # Jupyter
