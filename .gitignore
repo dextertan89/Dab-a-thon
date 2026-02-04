@@ -1,6 +1,5 @@
 # Data folders
 data/raw/**
-data/processed/**
 
 # Large files
 *.zip
