@@ -4,6 +4,7 @@ data/raw/**
 # Large files
 *.zip
 *.parquet
+*.csv
 
 # Jupyter
 .ipynb_checkpoints/
